@@ -19,6 +19,8 @@ import 'package:gcseic25/equipes/equipe5/screens/login.dart';
 import 'package:gcseic25/equipes/MKP1/screens/sobre_screen.dart';
 import 'package:gcseic25/equipes/MKP1/screens/ajuda_screen.dart';
 import 'package:gcseic25/equipes/equipe5/screens/transition_screen.dart';
+import 'package:gcseic25/equipes/CI_CD_7/login_screen.dart';
+import 'package:gcseic25/equipes/CI_CD_7/home_screen.dart';
 
 
 import 'package:gcseic25/equipes/CI_CD_10/login.dart';
